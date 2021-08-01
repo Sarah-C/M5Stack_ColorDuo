@@ -1,3 +1,4 @@
+
 # M5Stack_ColorDuo - for TCS34725 color sensor
 Color sensor demo for Core Grey, and Core2. 
 
@@ -18,4 +19,4 @@ This will calibrate the sensor and store it in EEPROM preferences for the sketch
 What calibration does is take the color that's in the middle of brightnesses of the three colors, and calculate a scaler for the other two to make them match this middle value.
 In effect all 3, R G and B become the same value - which will be grey.
 
-
+![20210801_143822](https://user-images.githubusercontent.com/1586332/127773068-6d5d251c-8a7c-41f5-8d1b-c53051fd0ee5.jpg)
