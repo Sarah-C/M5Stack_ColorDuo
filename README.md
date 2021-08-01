@@ -2,10 +2,10 @@
 Color sensor demo for Core Grey, and Core2. 
 
 This little demo shows how to:
-1 : Save preferences between power cycles.
-2 : Compile features unique to Core2 (Such as the LED strips in the M5Go-Bottom-2) from 1 codebase.
+1. Save preferences between power cycles.
+2. Compile features unique to Core2 (Such as the LED strips in the M5Go-Bottom-2) from 1 codebase.
     https://shop.m5stack.com/products/m5go-battery-bottom2-for-core2-only
-3 : Displaying HEX codes in drawString to the screen.
+3. Displaying HEX codes in drawString to the screen.
 
 This color demo shows the "Clear" white color of the sensor, as well as the red, green and blue components.
 It also translates it in to the CSS hex color triplet.... #RRGGBB.
